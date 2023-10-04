@@ -8,4 +8,4 @@ git add
 
 git commit -m "Trenutni timestamp"
 
-PAT= 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
+PAT= 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
