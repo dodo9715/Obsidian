@@ -5,4 +5,3 @@ timestamp=$(date "+%Y-%m-%d %H:%M:%S")
 git add .
 git commit -m "Auto-commit changes at $timestamp"
 git push origin main
-
