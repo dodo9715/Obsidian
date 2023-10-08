@@ -1,3 +1,6 @@
-#erp_sustavi
-#predavanja #ponedjeljak #foi2D9 11:00-13:00
-#labosi #srijeda #foi2D6 17:30-19:00
+
+| Raspored   | Dan       | Termin      | Dvorana  |
+| ---------- | --------- | ----------- | -------- |
+| Predavanja | #ponedjeljak  | 11:00-13:00 | #foi2D9  |
+| Labosi     | #srijeda  | 17:30-19:00 | #foi1D6 |           |           |             |          |
+#erp_sustavi  #predavanja #labosi 
